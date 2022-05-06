@@ -1,4 +1,4 @@
-* metaballs & linear interpolation
+*metaballs & linear interpolation
 ----------------------------------
 
 Metaball creation using Java and the Processing library for pixel manipulation. 
