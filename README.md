@@ -1,6 +1,8 @@
 metaballs & linear interpolation
 --------------------------------
 
+Personal visual challenge.
+
 Metaball creation using Java and the Processing library for pixel manipulation. 
 
 Metaballs either move freely or smoothly move towards the mouse position. 
